@@ -1,14 +1,14 @@
 # UAS
-<h2> Nama : Viena Dwi Putri Maulina <h2>
-<h2> Nim : 312110469 <h2>
-<h2> Kelas : TI.21.C1 <h2>
-<h2> Ujian Akhir Semester Ganjil <h2>
+<p> Nama : Viena Dwi Putri Maulina <p>
+<p> Nim : 312110469 <p>
+<p> Kelas : TI.21.C1 <p>
+<p> Ujian Akhir Semester Ganjil <p>
 
-<p> berikut soal UAS <p>
+<h1> soal UAS <h1>
 
-![gambar 1](ss/2.png)
+![gambar 1](ss/soal.PNG)
 
-<p> Jawab <p>
+<h1> Jawab <h1>
 
 # Code daftar nilai
 
@@ -162,6 +162,31 @@ while True:
 
 <h1> Hasil Output <h1>
 
-# Menu tambah data
+<p> setelah di run akan muncul perintah L,T,U,H,C,K<p>
+<p> L untuk melihat data <p>
+<p> T untuk menambahkan data <p>
+<p> U untuk mengubah data <p>
+<p> H untuk menghapus data <p>
+<p> C untuk mencari data <p>
+<p> K untuk keluar dari program <p>
+
+# Menu T)ambah
 
 ![gambar 2](ss/tambah.jpg)
+
+# Menu U)bah
+
+![gambar 3](ss/ubah.jpg)
+
+# Menu H)apus
+
+![gambar 4](ss/hapus.jpg)
+
+# Menu K)eluar
+
+![gambar 5](ss/keluar.jpg)
+
+# Jika salah kode
+
+![gambar 6](ss/random.jpg)
+
